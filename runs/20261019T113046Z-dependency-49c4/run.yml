@@ -5,8 +5,10 @@ role: dependency
 item: "#1"
 machine: m-3c20b9e9
 attempt: 2
-state: running
+state: finished
 resumes: null
 started: 2026-10-19T11:30:46Z
 role_commit: 83986498c16b514b02cb496dc3d6f08fac89e439
 agent: false
+ended: 2026-10-19T11:31:40Z
+reason: "sent the request to zkorus/orus-test-dep-lib-b96b: https://github.com/zkorus/orus-test-dep-lib-b96b/issues/1; recorded it in https://github.com/zkorus/orus-test-dep-app-b96b/pull/2"
