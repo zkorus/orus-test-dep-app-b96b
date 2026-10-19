@@ -1,0 +1,6 @@
+v: 0
+dependencies:
+  - name: orus-test-dep-lib-b96b
+    repository: zkorus/orus-test-dep-lib-b96b
+    version: v0.1.0
+    constraint: 0.x
