@@ -5,7 +5,9 @@ role: dependency
 item: "#1"
 machine: m-3c20b9e9
 attempt: 1
-state: running
+state: finished
 resumes: null
 started: 2026-10-19T11:29:38Z
 role_commit: 83986498c16b514b02cb496dc3d6f08fac89e439
+ended: 2026-10-19T11:30:27Z
+reason: "posted the request's preview on #1: add orus:send-upstream after reading it to send it to zkorus/orus-test-dep-lib-b96b"
