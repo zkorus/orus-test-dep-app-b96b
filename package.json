@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "orus-test-dep-lib-b96b": "github:zkorus/orus-test-dep-lib-b96b#v0.1.0"
+    "orus-test-dep-lib-b96b": "github:zkorus/orus-test-dep-lib-b96b#v0.2.0"
   }
 }
