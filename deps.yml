@@ -4,3 +4,7 @@ dependencies:
     repository: zkorus/orus-test-dep-lib-b96b
     version: v0.1.0
     constraint: 0.x
+    waiting_on:
+      - issue: zkorus/orus-test-dep-lib-b96b#1
+        for: "#1"
+        fingerprint: fp:4805d971e2b9bb24
